@@ -1,2 +1,3 @@
-# rapidrepairspro
-6 th sem minor project
+# Household service management website
+6th semester minor project
+
